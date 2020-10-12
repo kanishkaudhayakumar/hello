@@ -5,5 +5,6 @@ public class caps{
 		System.out.println("welcome all");
 		System.out.println("hello world");
 		System.out.println("hii all");
+		System.out.println("welcome to github");
 	}
 }
